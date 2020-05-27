@@ -12,5 +12,13 @@ p{
 .prueba{
     color: tomato;
     background-color: none;
-    
+
+}
+
+.container{
+    border: 1px solid grey;
+    text-align: center;
+    width: 70%;
+    margin: 0 auto;
+    padding: 1px;
 }
