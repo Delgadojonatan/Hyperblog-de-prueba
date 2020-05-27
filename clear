@@ -1,0 +1,62 @@
+[33mcommit 7608f05e8c203c1ac66fb0b3e62c1f20da0cb55a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Jonatan Delagado <d.b.jonatan.e@gmail.com>
+Date:   Mon May 25 00:34:37 2020 -0300
+
+    se crea un archivo de estilos para el blogpost
+
+ Nueva carpeta/estilos.css | 12 [32m++++++++++++[m
+ 1 file changed, 12 insertions(+)
+
+[33mcommit c32776df49aa77b4b959c0dc5cf30c5f2c40eda3[m
+Author: Jonatan Delagado <d.b.jonatan.e@gmail.com>
+Date:   Mon May 25 00:28:03 2020 -0300
+
+    vuelvo atras el archivo de texto
+
+ historia.txt | 6 [32m++[m[31m----[m
+ 1 file changed, 2 insertions(+), 4 deletions(-)
+
+[33mcommit 1526dd6bdd37f00e9ea7a9df6fb9953d3a3f8c5d[m
+Author: Jonatan Delagado <d.b.jonatan.e@gmail.com>
+Date:   Mon May 25 00:24:55 2020 -0300
+
+    Creamos por primera vez el proyecto del blog
+
+ blogpost.html | 13 [32m+++++++++++++[m
+ 1 file changed, 13 insertions(+)
+
+[33mcommit 9809973412014fef822f5313a863cc5173f662b0[m
+Author: Jonatan Delagado <d.b.jonatan.e@gmail.com>
+Date:   Sun May 24 23:44:19 2020 -0300
+
+    Se agrega un commit mas para hacer prueba de platzi
+
+ historia.txt | 4 [32m+++[m[31m-[m
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+[33mcommit bdd59ad3c184c489be33e46f3c0097fbe20b1ea0[m
+Author: Jonatan Delagado <d.b.jonatan.e@gmail.com>
+Date:   Sun May 24 23:35:37 2020 -0300
+
+    agregamos un nuevo cambio a la locura
+
+ historia.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 96a2e51c725c74f097913343076c0eede41a7fe9[m
+Author: Jonatan Delagado <d.b.jonatan.e@gmail.com>
+Date:   Sun May 24 23:28:57 2020 -0300
+
+    Esta es una modificacion para dejar tranquilo al lector del archivo
+
+ historia.txt | 6 [32m+++++[m[31m-[m
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+
+[33mcommit ae5b8acc4617630c71cb094b303bd7af903291b2[m
+Author: Jonatan Delagado <d.b.jonatan.e@gmail.com>
+Date:   Sun May 24 23:22:57 2020 -0300
+
+    Este es el primer commit de este archivo
+
+ historia.txt | 7 [32m+++++++[m
+ 1 file changed, 7 insertions(+)
